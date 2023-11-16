@@ -1,0 +1,15 @@
+E:\VisualStudio\repos\FileStructureCreator\FileStructureCreator\bin\Debug\net7.0\FileStructureCreator.exe
+E:\VisualStudio\repos\FileStructureCreator\FileStructureCreator\bin\Debug\net7.0\FileStructureCreator.deps.json
+E:\VisualStudio\repos\FileStructureCreator\FileStructureCreator\bin\Debug\net7.0\FileStructureCreator.runtimeconfig.json
+E:\VisualStudio\repos\FileStructureCreator\FileStructureCreator\bin\Debug\net7.0\FileStructureCreator.dll
+E:\VisualStudio\repos\FileStructureCreator\FileStructureCreator\bin\Debug\net7.0\FileStructureCreator.pdb
+E:\VisualStudio\repos\FileStructureCreator\FileStructureCreator\obj\Debug\net7.0\FileStructureCreator.csproj.AssemblyReference.cache
+E:\VisualStudio\repos\FileStructureCreator\FileStructureCreator\obj\Debug\net7.0\FileStructureCreator.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudio\repos\FileStructureCreator\FileStructureCreator\obj\Debug\net7.0\FileStructureCreator.AssemblyInfoInputs.cache
+E:\VisualStudio\repos\FileStructureCreator\FileStructureCreator\obj\Debug\net7.0\FileStructureCreator.AssemblyInfo.cs
+E:\VisualStudio\repos\FileStructureCreator\FileStructureCreator\obj\Debug\net7.0\FileStructureCreator.csproj.CoreCompileInputs.cache
+E:\VisualStudio\repos\FileStructureCreator\FileStructureCreator\obj\Debug\net7.0\FileStructureCreator.dll
+E:\VisualStudio\repos\FileStructureCreator\FileStructureCreator\obj\Debug\net7.0\refint\FileStructureCreator.dll
+E:\VisualStudio\repos\FileStructureCreator\FileStructureCreator\obj\Debug\net7.0\FileStructureCreator.pdb
+E:\VisualStudio\repos\FileStructureCreator\FileStructureCreator\obj\Debug\net7.0\FileStructureCreator.genruntimeconfig.cache
+E:\VisualStudio\repos\FileStructureCreator\FileStructureCreator\obj\Debug\net7.0\ref\FileStructureCreator.dll

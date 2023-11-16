@@ -1,0 +1,5 @@
+C:\Users\felix\OneDrive\Desktop\FileStructureCreator\FileStructureCreator.exe
+C:\Users\felix\OneDrive\Desktop\FileStructureCreator\FileStructureCreator.dll
+C:\Users\felix\OneDrive\Desktop\FileStructureCreator\FileStructureCreator.deps.json
+C:\Users\felix\OneDrive\Desktop\FileStructureCreator\FileStructureCreator.runtimeconfig.json
+C:\Users\felix\OneDrive\Desktop\FileStructureCreator\FileStructureCreator.pdb
